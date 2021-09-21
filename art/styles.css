@@ -1,3 +1,30 @@
+
+@media only screen and (min-width: 1000px) {
+    .navbar-nav {
+        float:none;
+        margin:0 auto;
+        display: block;
+        text-align: center;
+    }
+    .navbar-nav > li{
+        display: inline-block;
+        float:none;
+        } 
+}
+@media only screen and (max-width: 500px) {
+    .image {
+        width: 50% !important;;
+    }
+    .header{
+        font-size: 40px !important;
+    }
+
+    .text {
+        font-size: 20px !important;
+    }
+}
+
+
 .bg-light {
     background-color:rgb(255, 255, 255) !important;
 }
@@ -8,16 +35,7 @@
     font-size: 27px !important;
 }
 
-.navbar-nav {
-    float:none;
-    margin:0 auto;
-    display: block;
-    text-align: center;
-}
-.navbar-nav > li{
-    display: inline-block;
-    float:none;
-}
+
 .image {
     width:30%;
     height: auto;

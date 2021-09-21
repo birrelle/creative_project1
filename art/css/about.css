@@ -14,6 +14,7 @@
 
     .about_container {
         flex-direction: column !important;
+        width:85% !important;
     }
     .this_image {
         width: 100% !important;
