@@ -1,0 +1,35 @@
+textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    resize: none;
+  }
+
+input {
+      width: 100%;
+}
+
+label {
+    font-family: 'Montserrat', sans-serif !important;
+    font-variant: small-caps !important;
+    font-size: 23px !important;
+    /* align-content: center; */
+    display: block;
+    text-align: left;
+    width: 890px;
+}
+
+
+#thisname {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.contact_box {
+   margin: auto;
+   max-width: 60%;
+   text-align: center;
+}
+
+
+
